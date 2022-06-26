@@ -4,7 +4,7 @@
 * storage_basic.py
 * retrieval_basic.py
  
-##_env/ - 환경 Object 모음
+## _env/ - 환경 Object 모음
 * _objecy.py : Object들의 Base Class 모음
 * _msc.py : 설비들의 Class 모음
 * _static.py : 정적 설비 Class 모음
@@ -14,7 +14,8 @@
 ## _model/ : DQN Agent 관리 파일
 * _agent/ : agent network 저장폴더
 * _agent.py
- 
+
+## Root
 * _viewer.py : 환경 시각화 도구 (pygame)
 * _util.py : 프로그램 도구 모음
 * _simulator.py : 통합환경
