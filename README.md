@@ -11,7 +11,7 @@
 * _dynamic.py : 동적 설비 Class 모음
 * _env.py : 환경 구축
  
-## _model/ : DQN Agent 관리 파일
+## _model/ - DQN Agent 관리 파일
 * _agent/ : agent network 저장폴더
 * _agent.py
 
